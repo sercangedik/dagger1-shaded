@@ -11,8 +11,8 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.github.sercangedik.dagger1-shaded:dagger1-shaded-library:1.0.0'
-  annotationProcessor 'com.github.sercangedik.dagger1-shaded:dagger1-shaded-compiler:1.0.0'
+  implementation 'com.github.sercangedik.dagger1-shaded:dagger1-shaded-library:0.0.1'
+  annotationProcessor 'com.github.sercangedik.dagger1-shaded:dagger1-shaded-compiler:0.0.1'
 }
 ```
 
